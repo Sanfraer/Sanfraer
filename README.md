@@ -23,16 +23,16 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/PhpMyAdmin_logo.svg" width="40" height="40" alt="phpMyAdmin"/>
+  <img src="https://upload.wikimedia.org/wikipedia/de/thumb/e/ef/PhpMyAdmin-Logo.svg/640px-PhpMyAdmin-Logo.svg.png" width="40" height="40" alt="phpMyAdmin"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" alt="Unity"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="40" height="40" alt="Photoshop"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Adobe_Premiere_Pro_Logo.svg" width="40" height="40" alt="Premiere Pro"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Adobe-premiere-pro-cc-1430-vector-svg-.svg" width="40" height="40" alt="Premiere Pro"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="40" height="40" alt="Illustrator"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_.NET_logo.svg" width="40" height="40" alt=".NET"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/456px-Microsoft_.NET_logo.svg.png" width="40" height="40" alt=".NET"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" width="40" height="40" alt="Windows"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Pawn.svg" width="40" height="40" alt="Pawno"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Pawn_logo.png" width="40" height="40" alt="Pawn"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Delphi_10.3_Logo.svg" width="40" height="40" alt="Delphi"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg/1200px-Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg.png" width="40" height="40" alt="Delphi"/>
 </p>
 
