@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Adobe-premiere-pro-cc-1430-vector-svg-.svg" width="40" height="40" alt="Premiere Pro"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="40" height="40" alt="Illustrator"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/456px-Microsoft_.NET_logo.svg.png" width="40" height="40" alt=".NET"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" width="40" height="40" alt="Windows"/>
+  <img src="https://www.instanceit.com/assets/images/og-images/windows-forms-og.webp" width="40" height="40" alt="WindowsForm"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Pawn_logo.png" width="40" height="40" alt="Pawn"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
