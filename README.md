@@ -34,5 +34,6 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg/1200px-Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg.png" width="40" height="40" alt="Delphi"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0lImKTo9v3h1Rwi3Y8wKUzekI9y0jkNoqng&s" width="40" height="40" alt="CheatEngine"/>
 </p>
 
